@@ -13,7 +13,7 @@ const HomeBanner = () => {
                         <h2 className='fw-bolder text-white '>I am Rejuyan Hossain Shawon</h2>
 
                         <h4 className="fw-bold text-white">A Full Stack MERN Web Developer</h4>
-                        <a target='_blank' href="https://docs.google.com/document/d/1hoZet4dPvc8rEfyc26r3R-x8dtHZDZRRxbE_Dg9VydI/edit?usp=sharing"><Button className="px-5 mt-3">Resume</Button></a>
+                        <a target='_blank' href="https://drive.google.com/file/d/1AUUVET_43GKp8mTl3gqS4TD2huoale9Q/view?usp=sharing"><Button className="px-5 mt-3">Resume</Button></a>
                     </Col>
                     <Col sm={12} md={6}>
                         <img src={profile} alt="" />
